@@ -28,3 +28,36 @@ To experience the CatPhotoApp, simply open the `CatPhotoApp.html` file in your f
 ## Contributing
 
 Contributions to the CatPhotoApp project are highly appreciated. If you encounter any issues or have suggestions for improvements, please submit a pull request or open an issue on the project's GitHub repository.
+
+## 2. Cafe Menu
+
+This is a beautiful HTML code that represents a cafe menu. It showcases a variety of coffee and dessert options along with their corresponding prices. The code also includes some basic styling using an external CSS file.
+
+## Usage
+
+To use this code, simply copy and paste it into an HTML file. Make sure to include the styles.css file in the same directory as the HTML file. You can customize the menu items, prices, and images as per your requirements.
+
+## Preview
+
+Here's a preview of how the cafe menu will look:
+
+![Camper Cafe](https://github.com/SJ-2004/web-dev-101/assets/97745323/e863fe2c-4c99-4c42-bc19-ca5b8a3cfc6a)
+
+Coffee
+
+    French Vanilla - $3.00
+    Caramel Macchiato - $3.75
+    Pumpkin Spice - $3.50
+    Hazelnut - $4.00
+    Mocha - $4.50
+
+Desserts
+
+    Donut - $1.50
+    Cherry Pie - $2.75
+    Cheesecake - $3.00
+    Cinnamon Roll - $2.50
+
+## Contributing
+
+Contributions to the CatPhotoApp project are highly appreciated. If you encounter any issues or have suggestions for improvements, please submit a pull request or open an issue on the project's GitHub repository.
