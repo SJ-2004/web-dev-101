@@ -60,4 +60,4 @@ Desserts
 
 ## Contributing
 
-Contributions to the CatPhotoApp project are highly appreciated. If you encounter any issues or have suggestions for improvements, please submit a pull request or open an issue on the project's GitHub repository.
+Contributions to the CafeMenu project are highly appreciated. If you encounter any issues or have suggestions for improvements, please submit a pull request or open an issue on the project's GitHub repository.
