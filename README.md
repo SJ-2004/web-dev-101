@@ -33,6 +33,12 @@ Contributions to the **CatPhotoApp** project are highly appreciated. If you enco
 
 This is a beautifully designed HTML code that showcases a delightful cafe menu. It features an assortment of exquisite coffee and dessert options, each accompanied by their respective prices. The code also incorporates subtle styling through an external CSS file.
 
+### Table of Contents
+
+- [Usage](#usage)
+- [Preview](#preview)
+- [Contributing](#contributing)
+
 ## Usage
 
 To seamlessly integrate this code, follow these simple steps:
@@ -66,7 +72,7 @@ Witness the elegance of the cafe menu:
 
 ## Contributing
 
-I warmly welcome contributions to the CafeMenu project. Should you encounter any challenges or wish to propose enhancements, kindly take these steps:
+I warmly welcome contributions to the **Camper Cafe** project. Should you encounter any challenges or wish to propose enhancements, kindly take these steps:
 
-1. Submit a pull request through the project's GitHub repository.
+1. Submit a pull request through the project's [GitHub repository](https://github.com/SJ-2004/web-dev-101/tree/main).
 2. If you identify any issues or have suggestions, feel free to open an issue on the repository.
