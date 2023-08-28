@@ -2,7 +2,7 @@
 
 Welcome to the Web-Dev-101 repository! Here, you will find HTML and CSS files that were created while learning the basics of web development. Dive into the code and follow along with the progress made in understanding HTML structure, CSS styling, and building simple web pages!
 
-## CatPhotoApp
+## 1. CatPhotoApp
 
 The CatPhotoApp project is a simple HTML page that showcases adorable cat photos and provides valuable information about cats. It includes captivating images, informative lists, and even a form for submitting your own cat photos!
 
