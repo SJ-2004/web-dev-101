@@ -23,7 +23,7 @@ To experience the CatPhotoApp, simply open the `CatPhotoApp.html` file in your f
 
 ## Screenshots
 
-![Relaxing Cat](screenshot-url)
+![relaxing-cat](https://github.com/SJ-2004/web-dev-101/assets/97745323/1e9c3dc2-c263-4edf-96a2-f288868a0e02)
 
 ## Contributing
 
