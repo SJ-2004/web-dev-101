@@ -23,7 +23,7 @@ To use the CatPhotoApp, simply open the index.html file in a web browser. The pa
 
 Screenshots
 
-https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg
+![relaxing-cat](https://github.com/SJ-2004/web-dev-101/assets/97745323/b565c3a8-d7a6-4df3-9932-1bcddcc9f6c0)
 
 Contributing
 
